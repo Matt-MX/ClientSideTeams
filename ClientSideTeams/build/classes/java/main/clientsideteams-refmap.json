@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/mattmx/clientsideteams/mixin/AbovePlayerHeadNameMixin": {
+      "renderLabelIfPresent": "Lnet/minecraft/class_1007;method_4213(Lnet/minecraft/class_742;Lnet/minecraft/class_2561;Lnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/mattmx/clientsideteams/mixin/AbovePlayerHeadNameMixin": {
+        "renderLabelIfPresent": "Lnet/minecraft/class_1007;method_4213(Lnet/minecraft/class_742;Lnet/minecraft/class_2561;Lnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      }
+    }
+  }
+}

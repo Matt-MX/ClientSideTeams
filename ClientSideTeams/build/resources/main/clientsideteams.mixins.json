@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mattmx.clientsideteams.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "plugin": "com.mattmx.clientsideteams.Main",
+  "mixins": [
+  ],
+  "client": [
+    "AbovePlayerHeadNameMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,10 @@
+com/mattmx/clientsideteams/mixin/AbovePlayerHeadNameMixin.java
+ com.mattmx.clientsideteams.mixin.AbovePlayerHeadNameMixin
+com/mattmx/clientsideteams/Main.java
+ com.mattmx.clientsideteams.Main
+com/mattmx/clientsideteams/Commands/Commands.java
+ com.mattmx.clientsideteams.Commands.Commands
+com/mattmx/clientsideteams/Teams.java
+ com.mattmx.clientsideteams.Teams
+com/mattmx/clientsideteams/SpecialUser.java
+ com.mattmx.clientsideteams.SpecialUser
